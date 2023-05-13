@@ -1,0 +1,9 @@
+npm start
+ganache server - 8575, add truffle project
+truffle migrate
+metamask on chrome
+
+
+//new
+
+https://www.devoven.com/string-to-bytes32
